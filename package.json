@@ -1,0 +1,19 @@
+{
+  "name": "git-merge-rebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guicar/git-merge-rebase.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guicar/git-merge-rebase/issues"
+  },
+  "homepage": "https://github.com/guicar/git-merge-rebase#readme"
+}
